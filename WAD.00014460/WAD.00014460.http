@@ -1,0 +1,6 @@
+@WAD._00014460_HostAddress = http://localhost:5009
+
+GET {{WAD._00014460_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
